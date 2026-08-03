@@ -2,17 +2,10 @@ export function Footer() {
   return (
     <footer className="border-t border-nav-border bg-nav-bg text-nav-foreground">
       <div className="mx-auto max-w-6xl px-6 py-6 text-center text-sm text-nav-muted sm:px-10">
-        <p>LearnSnap AI, built for Bangladesh &apos;26.</p>
-        <p className="mt-1">
+        <p>LearnSnap AI, Gemma @ Bangladesh Hybrid Hackathon 2026.</p>
+        <p className="mt-1 font-medium text-nav-foreground hover:text-primary">
           Built by{" "}
-          <a
-            href="https://github.com/Oishi106"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="font-medium text-nav-foreground hover:text-primary"
-          >
-            @Mahamuda Afroz
-          </a>
+          @Team: UIU-Infyra
         </p>
       </div>
     </footer>
