@@ -104,17 +104,6 @@ assets/
 
 ---
 
-# ▶️ Run Locally
-
-```bash
-git clone https://github.com/shoikotsazzad/LearnSnap-AI.git
-cd frontend
-npm install
-npm run dev
-```
-
----
-
 # 🌍 Languages
 
 - 🇧🇩 বাংলা
