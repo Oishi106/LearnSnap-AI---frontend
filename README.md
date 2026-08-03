@@ -14,11 +14,11 @@ Built with ❤️ using Next.js, TypeScript, Tailwind CSS & Gemma 4 Vision
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live
 
-**Frontend:** https://learnsnap-eta.vercel.app
+**Frontend:** https://learnsnap-ai.vercel.app
 
-**Backend API:** https://backend-two-lemon-92.vercel.app
+**Backend API:** https://learnsnap-ai-backend.onrender.com
 
 ---
 
