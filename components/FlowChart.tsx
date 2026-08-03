@@ -7,9 +7,9 @@ import { useLanguage } from "@/lib/i18n";
 export function FlowChart({ code }: { code: string }) {
   const { t } = useLanguage();
   const { resolvedTheme } = useTheme();
-  const containerRef = useRef<HTMLDivElement>(null);
+  const containerRef = useRef<HTMLDivElement>(null);        
   const [error, setError] = useState(false);
-  const rawId = useId().replace(/[^a-zA-Z0-9]/g, "");
+  const rawId = useId().replace(/[^a-zA-Z0-9]/g, "");     
 
   useEffect(() => {
     if (!code) return;
